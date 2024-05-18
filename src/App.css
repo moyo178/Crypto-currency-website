@@ -817,6 +817,23 @@ input[type = email]{
       }
   }
   
+  @media screen and (min-width: 375px) {
+    .box{
+        display:flex;
+        width: 300px;
+        height: 850px;
+        border-radius: 18px ;
+        background-color: purple;
+        margin-left: 30px;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 50px;
+    }
+
+
+
+  }
+
   @media screen and (max-width: 480px) {
 
     .sep{
@@ -845,7 +862,7 @@ input[type = email]{
 
     .box{
         display:block;
-        width: 350px;
+        width: 330px;
         height: 850px;
         border-radius: 18px ;
         background-color: #101C46;
