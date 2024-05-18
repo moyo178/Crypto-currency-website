@@ -32,7 +32,7 @@ function HomeContent() {
           <h5>31,211.02</h5>
         </div>
 
-        <div className='boxx1'>
+        <div className='boxx1'>   
           <img src={bit1} alt="" />
           <h1 className='btc'>BTC/UTC <div id='box3' ><span>3.7%</span></div></h1>
           <h1 className='amount'>21,342.28</h1>
